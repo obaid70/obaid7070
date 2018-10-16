@@ -1,2 +1,46 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title> EECS1012 - Lab 1 </title>
+</head>
+<body>
+<h1> About Obaid Ur Rahman Siddiqui </h1>
+<p> I am from Pakistan.Both of my parents are from Pakistan.I grew up in Pakistan.I am currently studying in York University Canada.I enjoy great food everyday.</p>
+<hr>
+<h2> My IP address:130.63.176.110 </h2>
+<hr>
+<h2> Courses i'm taking this semester.</h2>
+<ul>
+<li> EECS1012:Net-centric Computing. </li>
+<li> BIOL1000:Cells,Molecular Biology and Genetics. </li>
+<li> EECS1001:Research Directions in Computing. </li>
+<li> MATH1300:Differential Calculus and its Applications. </li>
+<li> MATH1025:Applied Linear Algebra </li>
+</ul>
+<hr>
+<h2> My weekly timetable </h2>
+<table>
+<tr><td><strong>Time</strong></td><td><strong>Monday</strong></td><td><strong>Tuesday</strong></td><td><strong>Wednesday</strong></td><td><strong>Thursday</strong></td><td><strong>Friday</strong></td></tr>
+<tr><td>8:30am</td><td>MATH1300</td><td></td><td>MATH1300</td><td></td><td>MATH1300</td></tr>
+<tr><td>9:30am</td><td></td><td></td><td>BIOL1000</td><td></td><td></td></tr>
+<tr><td>10:30am</td><td>EECS1012</td><td></td><td>BIOL1000</td><td>EECS1012</td><td></td></tr>
+<tr><td>11:30am</td><td>EECS1012</td><td></td><td>BIOL1000</td><td>EECS1012</td><td></td></tr>
+<tr><td>12:30pm</td><td>EECS1012</td><td></td><td>BIOL1000</td><td>EECS1012</td><td></td></tr>
+<tr><td>1:30pm</td><td>BIOL1000</td><td></td><td>BIOL1000</td><td>EECS1012</td><td>BIOL1000</td></tr>
+<tr><td>2:30pm</td><td>BIOL1000</td><td></td><td>BIOL1000</td><td></td><td>BIOL1000</td></tr>
+<tr><td>3:30pm</td><td>MATH1025</td><td></td><td>MATH1025</td><td></td><td>Math1025</td></tr>
+<tr><td>4:30pm</td><td>EECS1001</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>5:30pm</td><td>EECS1001</td><td></td><td></td><td></td><td></td></tr>
+</table>
+<hr>
+<h2> My two Favourite Foods- with links. </h2>
+<p> <a href="https://en.wikipedia.org/wiki/Biryani">
+  <img src="https://www.africanbites.com/wp-content/uploads/2018/04/IMG_0061-2.jpg" alt="Biryani" height="350" width="600">
+</a>
+<a href="https://en.wikipedia.org/wiki/Seekh_kebab">
+  <img src="maxresdefault-1.jpg" alt="Seekh kabab" height="350" width="650">
+</a>
+ </p>
+</body>
+</html>
